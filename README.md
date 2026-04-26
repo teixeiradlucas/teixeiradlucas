@@ -9,11 +9,10 @@
     <img src="https://img.shields.io/badge/-LinkedIn-00AB33?style=flat-square&logo=linkedin&logoColor=white" />
   </a>
   <a href="mailto:teixeiradlucas.dev@gmail.com">
-    <img src="https://img.shields.io/badge/-Email-00AB33?style=flat-square&logo=gmail&logoColor=white" />
+    <img src="https://img.shields.io/badge/-teixeiradlucas.dev@gmail.com-00AB33?style=flat-square&logo=gmail&logoColor=white" />
   </a>
 </p>
 
----
 
 ## 🧠 Skills
 
@@ -29,7 +28,6 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="40" />
 </div>
 
----
 
 ### 📚 Currently learning
 
@@ -39,7 +37,6 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" height="40" />
 </div>
 
----
 
 ## 📊 GitHub Stats
 
