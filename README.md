@@ -5,7 +5,6 @@
 </p>
 
 <br>
-<br>
 
 ## 🧠 Skills
 
@@ -35,7 +34,6 @@
 </div>
 
 <br>
-<br>
 
 ## 👇🏻 Reach me via 
 
@@ -51,7 +49,6 @@
   </a>
 </div>
 
-<br>
 <br>
 
 ## 📊 GitHub Stats
