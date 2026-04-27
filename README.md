@@ -4,15 +4,8 @@
   Flutter & Java Backend Developer
 </p>
 
-<p align="center">
-  <a href="https://www.linkedin.com/in/teixeiradlucas">
-    <img src="https://img.shields.io/badge/-LinkedIn-00AB33?style=flat-square&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="mailto:teixeiradlucas.dev@gmail.com">
-    <img src="https://img.shields.io/badge/-teixeiradlucas.dev@gmail.com-00AB33?style=flat-square&logo=gmail&logoColor=white" />
-  </a>
-</p>
-
+<br>
+<br>
 
 ## 🧠 Skills
 
@@ -41,6 +34,25 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" height="40" />
 </div>
 
+<br>
+<br>
+
+## 👇🏻 Reach me via 
+
+<div align="center">
+  <a href="https://www.youtube.com/@DevLucasTeixeira" target="_blank">
+    <img src="https://github.com/user-attachments/assets/191ecd5f-d6c5-4348-ab46-23f9ccd41fb8" height="50" alt="youtube logo"  />
+  </a>
+  <a href="https://www.linkedin.com/in/teixeiradlucas" target="_blank">
+    <img src="https://github.com/user-attachments/assets/6708f656-58c5-4305-bce9-62663961137a" height="50" alt="linkedin logo"  />
+  </a>
+  <a href="mailto:teixeiradlucas.dev@gmail.com" target="_blank">
+    <img src="https://github.com/user-attachments/assets/84b6b4d7-2838-4672-80d4-0b0cc56e5445" height="50" alt="gmail logo"  />
+  </a>
+</div>
+
+<br>
+<br>
 
 ## 📊 GitHub Stats
 
